@@ -1,0 +1,2 @@
+$ javac ReflectionTest.java
+$ java reflection.ReflectionTest java.util.Date
