@@ -26,7 +26,7 @@ class WorkerThread implements Runnable
 		}
 	    }
 	    if (i == j) {
-		System.out.print(" " + i);
+		System.out.print(i + " ");
 	    }
 	    i++;
 	}
