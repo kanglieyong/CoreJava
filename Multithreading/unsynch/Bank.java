@@ -17,7 +17,7 @@ public class Bank
 	if (accounts[from] < amount) return;
 	System.out.print(Thread.currentThread());
 	accounts[from] -= amount;
-	System.out.println(" %10.2f from %d to %d", amount, from, to);
+	System.out.printf(" %10.2f from %d to %d", amount, from, to);
 	accounts[to] += amount;
 	System.out.printf(" Total Balance: %10.2f%n", getTotalBalance());
     }
@@ -36,5 +36,14 @@ public class Bank
     public int size()
     {
 	return accounts.length;
+    }
+
+    public static void main(String[] args)
+    {
+	Bank kly = new Bank(8, 40000);
+	kly.size();
+	kly.getTotalBalance();
+	kly.transfer(2, 6, 200.00);
+	System.out.println("Byebye!");
     }
 }

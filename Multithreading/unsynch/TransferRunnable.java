@@ -26,4 +26,11 @@ public class TransferRunnable implements Runnable
 	} catch (InterruptedException e) {
 	}
     }
+
+    public static void main(String[] args)
+    {
+	Bank abank = new Bank(10, 4000);
+	TransferRunnable trans = new TransferRunnable(abank, 3, 2000);
+	System.out.println("Done!");
+    }
 }
