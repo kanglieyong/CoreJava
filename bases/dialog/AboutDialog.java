@@ -9,7 +9,7 @@ public class AboutDialog extends Dialog
     public AboutDialog(JFrame owner)
     {
 	super(owner, "About DialogTest", true);
-	add(new JLabel("<html><h1><i>Dialog</i></h1><hr>By XXX</html>"), BorderLayout.CENTER);
+	add(new JLabel("<html>Dialog</html>"), BorderLayout.CENTER);
 
 	JButton ok = new JButton("Ok");
 	ok.addActionListener(new ActionListener() {
