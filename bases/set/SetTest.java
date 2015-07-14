@@ -20,7 +20,9 @@ public class SetTest
 
 	Iterator<String> iter = words.iterator();
 	for (int i = 1; i <= 20 && iter.hasNext(); i++) {
-	    System.out.println(iter.next());
+	    String word = iter.next();
+	    int hashCode = word.hashCode();
+	    System.out.println(word + "'s hashCode is " + hashCode);
 	}
 	System.out.println("...");
 	System.out.println(words.size() + " distinct words. " + totalTime + " milliseconds.");
