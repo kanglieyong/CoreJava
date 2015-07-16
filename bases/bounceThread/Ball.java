@@ -6,10 +6,16 @@ public class Ball
 {
     private static final int XSIZE = 10;
     private static final int YSIZE = 10;
-    private double x = 0;
-    private double y = 0;
+    private double x;
+    private double y;
     private double dx = 1;
     private double dy = 1;
+
+    public Ball()
+    {
+        x = (int)(Math.random() * BallComponent.DEFAULT_WIDTH);
+	y = (int)(Math.random() * BallComponent.DEFAULT_HEIGHT);
+    }
 
     public void move(Rectangle2D bounds)
     {
