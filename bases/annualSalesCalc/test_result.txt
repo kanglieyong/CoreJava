@@ -1,0 +1,207 @@
+		     Jan     Feb     Mar     Apr     May     Jun     Jul     Aug     Sep     Oct     Nov     Dec        
+
+Client ID: 100      89      13      43      62      10      45      66      66      60      68      16      22
+Client ID: 101      84      69      26       3      81      96      43      48      23       3      81       5
+Client ID: 102      79      34      92      52      70      37      55      67      86      66      76      77
+Client ID: 103      68      82      14      35      93      10      72      17      91      28      35      26
+Client ID: 104      22       5      31      29      17      12       1      98      59      36      54      86
+Client ID: 105      68      12      84      68      41       3      52      19      65       2      88       1
+Client ID: 106      84      15      10      36      41      47      32      19      88      48      26      40
+Client ID: 107      25      21       6       5      68      31      99      70      91      68      48      99
+Client ID: 108      92      23      80      36      25      55       3      14      16       0      16      22
+Client ID: 109      71      73      65      13      57      75      46      85      45      91      24      29
+Client ID: 110      53      10      37      69      25      67      62      25      75      96      51      13
+Client ID: 111      69      76      64      10      11       8       9      21      16       4      53      71
+Client ID: 112      35      66      67      19      66      10      50      89      18      62      29      31
+Client ID: 113      41      80      27      40      62      15      79      33      88       1       5      99
+Client ID: 114      50      83      68      75      63      33       0       7      47      45      28      79
+Client ID: 115       5      67      42      60       0      14      82      51      13      91       9      36
+Client ID: 116      14      66      63      74      44      99      38      69       4      77      77      52
+Client ID: 117      29      20      29      23      64       7      64      37      73      55      39      50
+Client ID: 118      76      96      51      57      56      31      32      15      70      24      84      24
+Client ID: 119      90      37      41      18       9      72      96      91      73      82      51      72
+Client ID: 120      44      87      54      80      54      89       7      90      84      33      76      15
+Client ID: 121      99      34      10       4      53      75      15      21      21      70      60      16
+Client ID: 122      45      38      61      74      17      11      46      47       7      36       4      17
+Client ID: 123      23      62       7      56      79      58      44      73      75      12      96      15
+Client ID: 124       1      63      68      23      49      46      43      80      61       8       6      25
+Client ID: 125       9      21      82      96      27      33      45       2      78      15      88      13
+Client ID: 126       9      56      72      14      40      71      56      17      30      61      56      97
+Client ID: 127       2      52      97      91       4      83       9      35      97      12      48      58
+Client ID: 128      54      19      70      95       6      43       9      84      16      24      16      48
+Client ID: 129      13      31      69      36      13      67      86      40      44      67      69      17
+Client ID: 130      93      56      63       8      40      68      21      31      62      55      80      39
+Client ID: 131      64      11      83      51      65      66      10      16      47      92      56      87
+Client ID: 132      91      29      73      17      29      58      54      78       2      69      79      35
+Client ID: 133      34      72      52      56      17      10      65      62      94      10      43      66
+Client ID: 134      94       7      19      33      21       7      28      18       4      86      85      27
+Client ID: 135      72      85      22      23      78      90       2      92      67      50      79      36
+Client ID: 136      73      64      11      11      58      33      40       4      92      31      30      42
+Client ID: 137      54      93      59      93      51      44       5       1      47      43      83      41
+Client ID: 138      79      13      63      62       3      43      67      68      96      47      22       1
+Client ID: 139       2      67      59      26       3      51      60       4      54      60      93      88
+Client ID: 140      73      71      26      12      17      22      62      95      38      89      47      86
+Client ID: 141      83      93      67      15       5      96      81       0      37      25      67      81
+Client ID: 142      50      94      89       7      80      67      63      20      63      18      61      21
+Client ID: 143      73      96       7      72      56      78      96      32      59      71       8      86
+Client ID: 144      46      39      22      30      58      94      78      22      86      20      24       1
+Client ID: 145      38       2      46      97      95      69      93      44      17      31      23      76
+Client ID: 146      11      24      25      99      45      11       8      58      88       4      38      96
+Client ID: 147      72       7      51      50      77      62      78      61      97      93      35      98
+Client ID: 148      85       6      32      40      56      27      28      25       4      64      74      33
+Client ID: 149       1      87      11      10      42      55       8      43      66      45       6      88
+Client ID: 150      98      90      85      69      32      29      43      68      76      11      14      32
+Client ID: 151      27      80      31      92      18      49      80      82      35      99      53      85
+Client ID: 152       7      48      50      32      92      63      72      71      63       2      33      30
+Client ID: 153      94      28      24      48      42      89      11      48      48      64      45      58
+Client ID: 154      11       3      72      63      36      98      48      86      42      18       2      48
+Client ID: 155      74      36      53      71      76      38      23       1      98       7      30      27
+Client ID: 156      26       6      75      86      88      49      15      96      27      94      94      66
+Client ID: 157      26      23       0      82      62      88      23      27      52      37      22      39
+Client ID: 158      10      24      55      56      44      97      79      16      95      71       5      10
+Client ID: 159      69      35      73      78      41      44      55      72      46      76      45      52
+Client ID: 160      57      97      23      12      36      34      43      76       5      33      38      73
+Client ID: 161      61      68      62      52      23      25      34      59      88      16      26       7
+Client ID: 162      18      53      97       4      52       9       8      44      40      70      15      29
+Client ID: 163      98      18      14      28      99      78      24      39      71      85      63      19
+Client ID: 164       3      67      52       0      69      67      54      75       6      49      97       0
+Client ID: 165      54      49      97      70      14      92      96      97      81      49      35       5
+Client ID: 166      79      27      68      92      82      96      15       8      76      99      38      85
+Client ID: 167      32      52      52      48      50      74      85      11      66      36      10      15
+Client ID: 168      74      23      49      52      33      34       4      27      58      42      13      75
+Client ID: 169       9      26      69      82      93      96      37      47      97      69      76      69
+Client ID: 170      30      79      95      22      89      94      80      76      21      28      74       5
+Client ID: 171      76      25      36      94      74      45       3      29      15      21       2      90
+Client ID: 172      94       5      40      19       4       7      33      93      27      55      36       5
+Client ID: 173      13      25      32      29      14      42      36      18      82      42       5      81
+Client ID: 174      22      12       9      99      78      94      36      81      21      66       8      73
+Client ID: 175      65      31      84      45      12      86      87      86      52      25      74      14
+Client ID: 176      36      47      50      13      94      29      17      59       5      80       1      68
+Client ID: 177      82      11      92      64      49      58      10      84      35       2      77       2
+Client ID: 178      62      27      24      48      92      30       8      51      91      87      81      98
+Client ID: 179      57      19       0      37       7      94      22      23      39      94      63      81
+Client ID: 180      43      71      90      31      15       7       2      99      96       6      63      52
+Client ID: 181      80      84      70      79      28      96      74      20      80      44      27      35
+Client ID: 182       0      74       5      38      29      55      20       8      44       3      57       3
+Client ID: 183      70      25      75      63      44      52      36      86      22      30      93      18
+Client ID: 184      81      65       7      51      24      52      59      77      67      96       4      82
+Client ID: 185      68      51      29      81      75      79       3      51      83      10      44      72
+Client ID: 186      33      47      86      37      16      32      93      58      46      19      70      84
+Client ID: 187      13      59      14      14      59      18      56      59       1      63       8      48
+Client ID: 188      76       2      40      47      28      11      19      34       3       7      90      90
+Client ID: 189       8      16      83      75      71      28      67      69      68      27      58      65
+Client ID: 190      66      13      65      67      17       4       1      48      61      22      73      79
+Client ID: 191      67       0      32      98      48      80       5      51      69      40      12      68
+Client ID: 192      83      45      48      62      73      58      33      90      23      38      11      82
+Client ID: 193      99      49      77       7       4      30      84      69      74      43      14      83
+Client ID: 194      76      79      43      96       5      86      26      24      28      60      59      11
+Client ID: 195      58      23      90      83      38      24      87      72      82      94      58      66
+Client ID: 196      42      85      53      13      88      79       9      40       4      31      68      42
+Client ID: 197      82      79      59       3      44      85      23      53      11      11      67      95
+Client ID: 198      41      89      57      28      52      29      66      36      13      58      98      50
+Client ID: 199      81      37      97      29      70      55      16      46      87      33      42      57
+
+
+Totaling for client 100 completed
+Totaling for client 101 completed
+Totaling for client 102 completed
+Totaling for client 103 completed
+Totaling for client 104 completed
+Totaling for client 105 completed
+Totaling for client 106 completed
+Totaling for client 107 completed
+Totaling for client 108 completed
+Totaling for client 110 completed
+Totaling for client 113 completed
+Totaling for client 109 completed
+Totaling for client 117 completed
+Totaling for client 119 completed
+Totaling for client 120 completed
+Totaling for client 121 completed
+Totaling for client 122 completed
+Totaling for client 123 completed
+Totaling for client 124 completed
+Totaling for client 125 completed
+Totaling for client 126 completed
+Totaling for client 112 completed
+Totaling for client 131 completed
+Totaling for client 132 completed
+Totaling for client 133 completed
+Totaling for client 134 completed
+Totaling for client 135 completed
+Totaling for client 136 completed
+Totaling for client 137 completed
+Totaling for client 138 completed
+Totaling for client 139 completed
+Totaling for client 140 completed
+Totaling for client 141 completed
+Totaling for client 142 completed
+Totaling for client 143 completed
+Totaling for client 144 completed
+Totaling for client 145 completed
+Totaling for client 146 completed
+Totaling for client 147 completed
+Totaling for client 148 completed
+Totaling for client 149 completed
+Totaling for client 150 completed
+Totaling for client 151 completed
+Totaling for client 152 completed
+Totaling for client 153 completed
+Totaling for client 154 completed
+Totaling for client 155 completed
+Totaling for client 156 completed
+Totaling for client 157 completed
+Totaling for client 158 completed
+Totaling for client 159 completed
+Totaling for client 111 completed
+Totaling for client 160 completed
+Totaling for client 116 completed
+Totaling for client 130 completed
+Totaling for client 129 completed
+Totaling for client 128 completed
+Totaling for client 127 completed
+Totaling for client 118 completed
+Totaling for client 115 completed
+Totaling for client 114 completed
+Totaling for client 169 completed
+Totaling for client 171 completed
+Totaling for client 168 completed
+Totaling for client 167 completed
+Totaling for client 166 completed
+Totaling for client 165 completed
+Totaling for client 164 completed
+Totaling for client 163 completed
+Totaling for client 178 completed
+Totaling for client 162 completed
+Totaling for client 161 completed
+Totaling for client 180 completed
+Totaling for client 179 completed
+Totaling for client 177 completed
+Totaling for client 176 completed
+Totaling for client 175 completed
+Totaling for client 174 completed
+Totaling for client 173 completed
+Totaling for client 172 completed
+Totaling for client 170 completed
+Totaling for client 189 completed
+Totaling for client 188 completed
+Totaling for client 187 completed
+Totaling for client 186 completed
+Totaling for client 185 completed
+Totaling for client 184 completed
+Totaling for client 183 completed
+Totaling for client 182 completed
+Totaling for client 181 completed
+Totaling for client 198 completed
+Totaling for client 197 completed
+Totaling for client 196 completed
+Totaling for client 195 completed
+Totaling for client 194 completed
+Totaling for client 193 completed
+Totaling for client 192 completed
+Totaling for client 191 completed
+Totaling for client 190 completed
+Totaling for client 199 completed
+
+The annual turnover (bags): 57944
+
